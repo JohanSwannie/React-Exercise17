@@ -1,7 +1,9 @@
 function App() {
   return (
     <>
-      <h1>HALLO</h1>
+      <h1 className="text-center mx-auto w-60 bg-blue-950 text-white font-bold">
+        ANOTHER PROJECT
+      </h1>
     </>
   );
 }
