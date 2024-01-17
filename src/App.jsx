@@ -26,9 +26,10 @@ function App() {
           <div className="w-full max-w-sm mx-auto flex justify-end mb-10">
             <ThemeBtn />
           </div>
-
-          <div className="w-full max-w-2xl mx-auto">
-            <Card />
+          <div inline-grid grid-cols-3 gap-4>
+            <div className="w-full max-w-2xl mx-auto">
+              <Card />
+            </div>
           </div>
         </div>
       </div>
