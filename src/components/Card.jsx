@@ -6,14 +6,14 @@ export default function Card() {
       <a href="/">
         <img
           className="p-8 rounded-t-lg"
-          src="https://cdn.mos.cms.futurecdn.net/goS7uUBygban5cVuXMgvjU-1200-80.jpg"
+          src="https://www.tennisexpress.com/blog/wp-content/uploads/2020/09/2020TE_ProStaff_v13_Marketing_Social_Beauty_Photography_PS_97L_11501_edit-scaled-e1600455116462.jpg"
           alt="product_image1"
         />
       </a>
       <div className="px-5 pb-5">
         <a href="/">
           <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
-            Apple Macbook Pro 16-inch
+            Wilson Pro Staff 97 Tennis Racket
           </h5>
         </a>
         <div className="flex items-center mt-2.5 mb-5">
@@ -68,7 +68,7 @@ export default function Card() {
         </div>
         <div className="flex items-center justify-between">
           <span className="text-3xl font-bold text-gray-900 dark:text-white">
-            $2499
+            $525
           </span>
           <a
             href="/"
