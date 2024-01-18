@@ -13,7 +13,7 @@ export default function Card() {
       <div className="px-5 pb-5">
         <a href="/">
           <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
-            Wilson Pro Staff 97 Tennis Racket
+            Wilson Pro Staff 97 Tennis Rackets X 2
           </h5>
         </a>
         <div className="flex items-center mt-2.5 mb-5">
