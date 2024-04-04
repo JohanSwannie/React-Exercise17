@@ -16,7 +16,7 @@ function ThemeBtn() {
       <input
         type="checkbox"
         value=""
-        className="sr-only peer bg-red-600"
+        className="peer sr-only"
         onChange={onChangeBtn}
         checked={themeMode === "dark"}
       />
